@@ -1,2 +1,4 @@
 # Reyna-Valorant-Clone
-This is an Alpha clone of the agent [Reyna] And will not take any of the attention to make this real.
+- Created By: NGeorge#0733
+- Made In: Game Maker Studio 1.4.9999 Beta
+- Source Code: Not available but are sellable for begginers. Dm me on discord if so.
