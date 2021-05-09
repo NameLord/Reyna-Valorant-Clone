@@ -4,6 +4,7 @@
 - Source Code: Not available but are sellable for begginers. Dm me on discord if so.
 
 # Game 
+- Can spawn enemies with F1 on cursor.
 
 # Abbilities
 - .[C] Leer = Throw an eye which enemy will not attack you if it exists + Some Bonuses on it , it heals the enemy if it exists and if the eye touches the enemy it deals damage.
