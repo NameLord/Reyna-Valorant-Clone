@@ -3,6 +3,7 @@
 - Made In: Game Maker Studio 1.4.9999 Beta
 - Source Code: Not available but are sellable for begginers. Dm me on discord if so.
 
+# Game 
 
 # Abbilities
 - .[C] Leer = Throw an eye which enemy will not attack you if it exists + Some Bonuses on it , it heals the enemy if it exists and if the eye touches the enemy it deals damage.
