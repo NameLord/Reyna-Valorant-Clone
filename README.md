@@ -8,8 +8,9 @@
 - All Sounds and sprites. by Original Valorant [Riot Games.] expect the reyna sprite :)
 
 # Game Keys
-- F1 - Spawns Enemies on Cursor
-- F2 - Reset Abbilities Amount to Default
+- Esc - Restart the Game.
+- F1 - Spawns Enemies on Cursor.
+- F2 - Reset Abbilities Amount to Default.
 
 # Abbilities
 
