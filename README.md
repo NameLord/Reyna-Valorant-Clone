@@ -3,11 +3,12 @@
 - Made In: Game Maker Studio 1.4.9999 Beta
 - Source Code: Not available but are sellable for begginers. Dm me on discord if so.
 
-# Game 
-- Can spawn enemies with F1 on cursor.
+# Game Keys
+- F1 - Spawns Enemies on Cursor
+- F2 - Reset Abbilities Amount to Default
 
 # Abbilities
 - .[C] Leer = Throw an eye which enemy will not attack you if it exists + Some Bonuses on it , it heals the enemy if it exists and if the eye touches the enemy it deals damage.
 - .[Q] Devour = If the soul orb exists and presses on it it heals you + if you have Empress On it gives Big Movement Speed
 - .[E] Dismiss = same as Devour but it not heals or do damage. it gives more big movement speed than normal if you have Empress On it , makes you invulnerable + invisible to enemy eyes.
-- .[X] Empress = Gives more fire speed , reload speed , and enhance abbilities , [Q And E] Amounts make it infinite
+- .[X] Empress = Gives more fire speed , reload speed , and enhance abbilities , [Q And E] Amounts make it infinite , If you kill an enemy the Empress will reset its cooldown.
