@@ -12,6 +12,11 @@
 - F1 - Spawns Enemies on Cursor.
 - F2 - Reset Abbilities Amount to Default.
 
+# Guns
+- Pistol named as [Sheriff] = Key 1
+- Spectre = Key 2 - [Version 0.0.0.6]
+- Vandal = Key 3 - [Version 0.0.0.5]
+
 # Abbilities
 
 - If Empress is active and kills an enemy will automatically heals you if the soul is existing.
