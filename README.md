@@ -10,13 +10,13 @@
 # Game Keys
 - Esc - Restart the Game.
 - F1 - Spawns Enemies on Cursor.
-- F2 - Reset Abbilities Amount to Default.
+- F2 - Reset Abbilities Amount to Default. [No longer exists after 0.0.0.7]
 
 # Guns
-- Pistol named as [Sheriff] = Key 1
+- Sheriff = Key 1
 - Spectre = Key 2 - [Version 0.0.0.6]
 - Vandal = Key 3 - [Version 0.0.0.5]
-- Shotgun = Key 4 - [Version 0.0.0.7]
+- Bucky = Key 4 - [Version 0.0.0.7]
 - Operator = Key 5 - [Version 0.0.0.8]
 
 # Abbilities
