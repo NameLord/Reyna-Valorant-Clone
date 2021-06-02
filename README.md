@@ -13,8 +13,7 @@
 - Sheriff = Key 1
 - Spectre = Key 2 - [Version 0.0.0.6]
 - Vandal = Key 3 - [Version 0.0.0.5]
-- Bucky = Key 4 - [Version 0.0.0.7]
-- Operator = Key 5 - [Version 0.0.0.8]
+- Operator = Key 4 - [Version 0.0.0.8]
 
 # Abbilities
 
