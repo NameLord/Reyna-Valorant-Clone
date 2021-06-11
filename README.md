@@ -1,6 +1,6 @@
 # Reyna-Valorant-Clone
 - Idea was from: https://scratch.mit.edu/users/high_digital/
-- Created By: NGeorge#0733
+- Created By: NGeorge#0069
 - Made In: Game Maker Studio 1.4.9999 Beta
 - All Sounds and sprites. by Original Valorant [Riot Games.] expect the reyna sprite :)
 
