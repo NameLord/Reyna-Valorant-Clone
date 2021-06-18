@@ -16,7 +16,7 @@
 - Operator = Key 4
 
 # Abbilities
--Easy Explanation here => https://valorant.fandom.com/wiki/Reyna#Abilities
+- Easy Explanation here => https://valorant.fandom.com/wiki/Reyna#Abilities
 
 - If Empress is active and kills an enemy will automatically heals you if the soul is existing.
 
