@@ -10,4 +10,4 @@
 - F1 - Spawns Enemies on Cursor.
 
 # More Informations about anything on WIKI
--Check here: https://github.com/NameLord/Reyna-Valorant-Clone/wiki
+- Check here: https://github.com/NameLord/Reyna-Valorant-Clone/wiki
