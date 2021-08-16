@@ -1,4 +1,6 @@
 # Reyna-Valorant-Clone
+- Game Update Priority: Low
+
 - Idea was from: https://scratch.mit.edu/users/high_digital/
 - Created By: NGeorge#0733
 - Made In: Game Maker Studio 1.4.9999 Beta
