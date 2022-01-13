@@ -2,7 +2,7 @@
 - Game Update Priority: Low
 
 - Idea was from: https://scratch.mit.edu/users/high_digital/
-- Created By: NGeorge#0733
+- Created By: NGeorge#5042
 - Made In: Game Maker Studio 1.4.9999 Beta
 - Discord Server: https://discord.gg/yh6VjUm9TG
 - All Sounds and sprites. by Original Valorant [Riot Games.] expect the reyna sprite :)
