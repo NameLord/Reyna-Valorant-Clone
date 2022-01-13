@@ -10,7 +10,7 @@
 # Game Keys
 - Esc - Restart the Game.
 - F1 - Spawns Enemies on Cursor.
-- F5 - Open Console Game
+- F5 - Open Console Game [No Longer usable on 1.6]
 
 # More Informations about anything on WIKI
 - Check here: https://github.com/NameLord/Reyna-Valorant-Clone/wiki
