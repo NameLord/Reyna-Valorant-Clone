@@ -1,5 +1,5 @@
 # Reyna-Valorant-Clone
-- Game Update Priority: Low
+- Game Update Priority: Medium | High
 
 - Idea was from: https://scratch.mit.edu/users/high_digital/
 - Created By: NGeorge#5042
