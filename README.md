@@ -2,7 +2,7 @@
 
 - Idea was from: https://scratch.mit.edu/users/high_digital/
 - Created By: NGeorge#5042
-- Made In: Game Maker Studio 1.4.9999 Beta
+- Made In: Deprecated `Game Maker Studio 1.4.9999 Beta` Now using **Game Maker Studio 2.2.5**
 - Discord Server: https://discord.gg/yh6VjUm9TG
 - All Sounds and sprites. by Original Valorant [Riot Games.] expect the reyna sprite :)
 
