@@ -1,4 +1,4 @@
-- IF YOU ARE WILLING TO MAINTAIN THIS PROJECT PLEASE DM ME ON DISCORD FOR PERMISSION ON DISCORD AND FORK THIS REPOSITORY.
+- Source are still public but i will not give support for it learn by yourself.
 
 - Idea was from: https://scratch.mit.edu/users/high_digital/
 - Created By: NGeorge#5042
