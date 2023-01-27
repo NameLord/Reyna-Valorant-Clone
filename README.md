@@ -14,3 +14,5 @@
 
 ## More Informations about anything on WIKI
 - Check here: https://github.com/NameLord/Reyna-Valorant-Clone/wiki
+
+### As of the source code i will NOT give any support for how to run or how any code was made or even how the code works.
