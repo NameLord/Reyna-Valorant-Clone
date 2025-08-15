@@ -1,6 +1,7 @@
+## The Game is getting a Heavy Reworking with lots of features that will be scrapped and removed from the game.
 - Idea was from: https://scratch.mit.edu/users/high_digital/
 - State of the Game: The game is FAR Away from Finish, It takes time to introduce features like Mobility or Abilities or even new things such as Custom content from other games.
-- Game Engine: `OLD: GMS 1.4.9999` -> `NEW: GMS 2.2.5`
+- Game Engine: `OLD: GMS 1.4.9999` -> `NEW: GMS 2024.13.1.242`
 - Discord Server: https://discord.gg/yh6VjUm9TG
 - All Sounds and sprites. by Original Valorant [Riot Games.] expect the reyna sprite :)
 
