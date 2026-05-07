@@ -1,4 +1,3 @@
-## The Game is getting a Heavy Reworking with lots of features that will be scrapped and removed from the game.
 - Idea was from: https://scratch.mit.edu/users/high_digital/
 - State of the Game: The game is FAR Away from Finish, It takes time to introduce features like Mobility or Abilities or even new things such as Custom content from other games.
 - Game Engine: `OLD: GMS 1.4.9999` -> `Latest GMS`
@@ -13,5 +12,3 @@
 
 ## More Informations about anything on WIKI
 - Check here: https://github.com/NameLord/Reyna-Valorant-Clone/wiki
-
-### As of the source code i will NOT give any support for how to run or how any code was made or even how the code works.
