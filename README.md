@@ -8,6 +8,7 @@
 - Credit for everyone that helped me fix the game and teach me all the things
 - that i was shitty on and i love you guys for everything that you did to me.
 - People that helped me -> https://discord.gg/gamemaker
+- I LOVE DeepSeek | ChatGPT, They helped me with code.
 - And also credit the Guy from Scratch with the idea for the game. if it wasn't for him i would'nt be here making this beatiful game.
 
 ## More Informations about anything on WIKI
