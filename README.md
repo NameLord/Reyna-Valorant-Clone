@@ -1,7 +1,4 @@
-- Idea was from: https://scratch.mit.edu/users/high_digital/
 - State of the Game: The game is FAR Away from Finish, It takes time to introduce features like Mobility or Abilities or even new things such as Custom content from other games.
-- Game Engine: `OLD: GMS 1.4.9999` -> `Latest GMS`
-- Discord Server: https://discord.gg/utvbsesbE2
 
 ## 📦 Credits & Third‑Party Assets
 
