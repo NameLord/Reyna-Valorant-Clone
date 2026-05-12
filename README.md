@@ -1,5 +1,3 @@
-- State of the Game: The game is FAR Away from Finish, It takes time to introduce features like Mobility or Abilities or even new things such as Custom content from other games.
-
 ## 📦 Credits & Third‑Party Assets
 
 ### 🎨 Characters & Abilities  
